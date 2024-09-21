@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hai+Saya+Junior+Web+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hai+Saya+Junior+Web+Developer+🌐;)](https://git.io/typing-svg)
 <br>
 Halo, nama saya Hafiz Rabjan Siddiq. Saya adalah mahasiswa Teknik Informatika. Saya sangat tertarik dengan teknologi dan pengembangan perangkat lunak, serta selalu berusaha untuk belajar hal-hal baru di bidang ini. Saya berharap bisa berkontribusi dalam proyek-proyek yang bermanfaat dan terus mengembangkan kemampuan saya di dunia teknologi.
 
