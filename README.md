@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 ## Stats 😒
 ![Hafiz Rabjan Siddiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hfzrbjnsddq&hide_progress=true)
