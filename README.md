@@ -10,7 +10,7 @@ Nama saya Hafiz Rabjan Siddiq. Saya adalah mahasiswa Teknik Informatika. Saya sa
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical" alt="Hafiz Rabjan Siddiq GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=default" alt="Hafiz Rabjan Siddiq GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hfzrbjnsddq&layout=donut" alt="Top Languages" />
