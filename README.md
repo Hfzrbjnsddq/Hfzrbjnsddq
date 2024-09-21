@@ -5,7 +5,6 @@ Nama saya Hafiz Rabjan Siddiq. Saya adalah mahasiswa Teknik Informatika. Saya sa
 ## Keahlian Saya 😁👍
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,mysql,nodejs,vscode,bootstrap,tailwindcss,sass,dart,swift)](https://skillicons.dev)
 
-
 ## Stats 😒
 <table>
   <tr>
