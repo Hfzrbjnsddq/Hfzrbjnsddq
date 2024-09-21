@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hai+Saya+Hafiz+Rabjan+Siddiq;)](https://git.io/typing-svg)
 
+Halo, nama saya Hafiz Rabjan Siddiq. Saya adalah mahasiswa Teknik Informatika. Saya sangat tertarik dengan teknologi dan pengembangan perangkat lunak, serta selalu berusaha untuk belajar hal-hal baru di bidang ini. Saya berharap bisa berkontribusi dalam proyek-proyek yang bermanfaat dan terus mengembangkan kemampuan saya di dunia teknologi.
 <!--
 **Hfzrbjnsddq/Hfzrbjnsddq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Keahlian Saya >😁👍
+## Keahlian Saya 😁👍
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,mysql,nodejs,vscode,bootstrap,tailwindcss,sass)](https://skillicons.dev)
 
 
