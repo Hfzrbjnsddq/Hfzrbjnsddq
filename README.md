@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Hafiz Rabjan Siddiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical)
