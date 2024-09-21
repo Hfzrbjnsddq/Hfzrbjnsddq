@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## My Skill
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,mysql,nodejs,vscode,bootstrap,tailwindcss,sass)](https://skillicons.dev)
 
+
+## Stats 😒
 ![Hafiz Rabjan Siddiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical)
