@@ -7,4 +7,4 @@ Halo, nama saya Hafiz Rabjan Siddiq. Saya adalah mahasiswa Teknik Informatika. S
 
 
 ## Stats 😒
-![Hafiz Rabjan Siddiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hfzrbjnsddq&layout=donut-vertical)](https://github.com/Hfzrbjnsddq/github-readme-stats)
+![Hafiz Rabjan Siddiq GitHub stats](https://github-readme-stats.vercel.app/api?username=Hfzrbjnsddq&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hfzrbjnsddq)](https://github.com/Hfzrbjnsddq/github-readme-stats)
