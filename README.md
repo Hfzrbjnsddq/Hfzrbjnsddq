@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Skill
+## Keahlian Saya >😁👍
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,python,mysql,nodejs,vscode,bootstrap,tailwindcss,sass)](https://skillicons.dev)
 
 
